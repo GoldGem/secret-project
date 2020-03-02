@@ -382,13 +382,13 @@ html {
 .btn.btn-primary.disabled:focus,
 .btn.btn-primary:disabled.focus,
 .btn.btn-primary:disabled:focus {
-    background-color: #52bcd3;
+    background-color: #0275d8;
     border-color: #52bcd3
 }
 
 .btn.btn-primary.disabled:hover,
 .btn.btn-primary:disabled:hover {
-    background-color: #52bcd3;
+    background-color: #0275d8;
     border-color: #52bcd3
 }
 
